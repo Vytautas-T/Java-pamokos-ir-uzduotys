@@ -1,8 +1,13 @@
 .pirmas {
     background-color: red;
     width: 20%;
-    height: 180px;
+    height: 200px;
     display: inline-block;
+    padding-bottom:-5px; 
+    margin-bottom: -5px;
+    margin-top: -5;
+    padding-top: -5; 
+
 }
 .antras {
     background-color: green;
@@ -10,7 +15,7 @@
     height: 180px;
     display: inline-block;
     margin-left: 14%;
-
+    display:inline-block; 
 }
 
 .trecias {
@@ -18,7 +23,11 @@
     width: 20%;
     height: 180px;
     display: inline-block;
+    padding-bottom:-5px; 
+    margin-bottom: -5px; 
     margin-left:14%;
+    margin-top: -5;
+    padding-top: -5;
 
 }
 
@@ -31,8 +40,13 @@
 .penktas {
     background-color: red;
     width: 20%;
-    height: 180px;
+    height: 200px;
     display: inline-block;
+    padding-bottom:-5px; 
+    margin-bottom: -5px; 
+    margin-top: -10;
+    padding-top: -10;
+
 }
 .nr6 {
     background-color: silid white;
