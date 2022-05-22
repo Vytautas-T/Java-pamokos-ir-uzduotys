@@ -1,0 +1,66 @@
+.pirmas {
+    background-color: red;
+    width: 20%;
+    height: 180px;
+    display: inline-block;
+}
+.antras {
+    background-color: green;
+    width: 30%;
+    height: 180px;
+    display: inline-block;
+    margin-left: 14%;
+
+}
+
+.trecias {
+    background-color: red;
+    width: 20%;
+    height: 180px;
+    display: inline-block;
+    margin-left:14%;
+
+}
+
+.ketvirtas {
+    background-color: blue;
+    width: 58%;
+    height: 180px;
+    display: inline-block;
+}
+.penktas {
+    background-color: red;
+    width: 20%;
+    height: 180px;
+    display: inline-block;
+}
+.nr6 {
+    background-color: silid white;
+    width: 58%;
+    height: 180px;
+    display: inline-block;
+    vertical-align: top;
+}
+.nr7 {
+    background-color: violet;
+    width: 150px;
+    height: 150px;
+    margin-left: 65px;
+    display: inline-block;
+    margin-top: 20px;
+    
+}
+
+.nr8 {
+    background-color: green;
+    width: 58%;
+    height: 180px;
+    display: inline-block;
+}
+
+.nr9 {
+    background-color: violet;
+    width: 58%;
+    height: 180px;
+    display: inline-block;
+}
