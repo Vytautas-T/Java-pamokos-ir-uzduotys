@@ -1,0 +1,15 @@
+.body, div {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.pref {
+    border: 1px solid black;
+    width: 70%;
+    height: 50px;
+    background: blue;
+}
+.pref2 {
+    background-color: lightblue;
+    border-radius: 50px;
+}
