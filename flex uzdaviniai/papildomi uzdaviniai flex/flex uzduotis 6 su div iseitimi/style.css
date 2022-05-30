@@ -55,7 +55,6 @@
 }
 
 .img-text-div {
-    flex-grow: 1;
 
 }
     
@@ -87,7 +86,7 @@
 
 .cw-botton {
     display: flex;
-    justify-content: center;
+    align-items: flex-end;
     background-color: lightgray;
     border: 2px solid black;
     width: 90%;
@@ -110,7 +109,4 @@
 
 .pastraipos-wraperis {
     display: flex;
-    justify-content: start;
-    flex-direction: column;
-    flex-grow:1 ;
 }
