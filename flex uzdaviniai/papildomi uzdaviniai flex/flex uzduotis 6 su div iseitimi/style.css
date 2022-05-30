@@ -67,6 +67,7 @@
 .content-window {
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
     align-items: center;
     border: 10px solid gray;
     background-color: white;
