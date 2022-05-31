@@ -26,12 +26,8 @@
     padding-top: 5px;
     background-color: rgb(228, 228, 228);
 }
-.dienos {
-    border: 1px solid black;
-    width: 14%;
-    height: 140px;
-}
-.dienos1 { 
+
+.dienos { 
     display: flex;
     justify-content: end;
     border: 1px solid black;
@@ -39,6 +35,12 @@
     width: 14%;
     height: 140px;
 }
+
+.no-day {
+    border: 1px solid black;
+    background-color: rgb(231, 231, 231);
+}
+
 .header {
     display: flex;
     justify-content: center;
