@@ -37,8 +37,8 @@
 }
 
 .no-day {
-    border: 1px solid black;
-    background-color: rgb(231, 231, 231);
+    border: 0;
+    background-color: rgb(228, 228, 228);
 }
 
 .header {
