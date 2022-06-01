@@ -1,7 +1,7 @@
 .border {
     border: 3px solid black;
     border-radius: 7px ;
-    max-width: 80%;
+    max-width: 70%;
 }
 .eilutes {
     display: flex;
